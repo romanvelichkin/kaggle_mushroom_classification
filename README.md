@@ -1,7 +1,7 @@
-# kaggle_mushroom_classification
-Kaggle - Mushroom classification
+# Kaggle - Mushroom classification
 
 https://www.kaggle.com/datasets/uciml/mushroom-classification
-Dataset contains information about mushrooms - edible and poisonous.
+<br>
+<i>Dataset contains information about mushrooms - edible and poisonous.</i>
 
 A notebook with a model that, based on descriptive features, predicts whether a mushroom is edible or poisonous.
